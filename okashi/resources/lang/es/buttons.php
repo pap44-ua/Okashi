@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'send' => 'Enviar',
+    'delete' => 'Borrar',
+    'modify' => 'Modificar',
+    'buy_now' => 'Comprar ya',
+    'save_changes' => 'Guardar cambios',
+    'create_address' => 'Crear Dirección',
+    'create_product' => 'Crear Producto',
+    'create_user' => 'Crear Usuario',
+    'sign_in' => 'Iniciar Sesión',
+    'modify_address' => 'Modificar Dirección',
+    'modify_product' => 'Modificar Producto',
+    'modify_user' => 'Modificar Usuario',
+    'logout' => 'Cerrar Sesión',
+    'login' => 'Iniciar Sesión',
+    'register' => 'Registrarse',
+    'admin' => 'Admin',
+    'add_to_cart' => 'Añadir al carrito',
+    'search' => 'Buscar',
+    'add_card' => 'Añadir Tarjeta',
+    'use_this_card' => 'Usar esta tarjeta',
+    'delete_this_card' => 'Eliminar esta tarjeta',
+    'confirm_payment' => 'Confirmar Pago',
+    'login_to_add_to_cart' => 'Inicia sesión para añadir al carrito',
+];

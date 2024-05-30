@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'send' => 'Send',
+    'delete' => 'Delete',
+    'modify' => 'Modify',
+    'buy_now' => 'Buy now',
+    'save_changes' => 'Save changes',
+    'create_address' => 'Create Address',
+    'create_product' => 'Create Product',
+    'create_user' => 'Create User',
+    'sign_in' => 'Log in',
+    'modify_address' => 'Modify Address',
+    'modify_product' => 'Modify Product',
+    'modify_user' => 'Modify User',
+    'logout' => 'Log out',
+    'login' => 'Log in',
+    'register' => 'Register',
+    'admin' => 'Admin',
+    'add_to_cart' => 'Add to cart',
+    'search' => 'Search',
+    'add_card' => 'Add Card',
+    'use_this_card' => 'Use This Card',
+    'delete_this_card' => 'Delete This Card',
+    'confirm_payment' => 'Confirm Payment',
+    'login_to_add_to_cart' => 'Login to add to Cart',
+];

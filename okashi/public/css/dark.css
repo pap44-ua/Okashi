@@ -1,0 +1,49 @@
+body {
+    background-color: #121212 !important;
+    color: #ffffff;
+}
+
+.card {
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+}
+
+.card a {
+    color: #bb86fc;
+}
+
+.btn-danger {
+    background-color: #cf6679;
+}
+
+
+.ring i {
+    border: 2px solid #ffffff;
+}
+
+.login {
+    color: #ffffff !important; /* Color de texto blanco */
+}
+
+.login h2 {
+    color: #ffffff !important; /* Color de texto blanco */
+}
+
+.login .inputBx input {
+    background: transparent !important; /* Fondo transparente */
+    border: 2px solid #ffffff !important; /* Borde blanco */
+    color: #ffffff !important; /* Color de texto blanco */
+}
+
+.login .inputBx input[type="submit"] {
+    background: #0078ff !important; /* Fondo del botón en modo oscuro */
+    color: #ffffff !important; /* Color de texto blanco */
+}
+
+.login .inputBx input::placeholder {
+    color: rgba(255, 255, 255, 0.75) !important; /* Color de placeholder blanco */
+}
+
+.login .links a {
+    color: #ffffff !important; /* Color de enlace blanco */
+}
