@@ -1,7 +1,9 @@
 # Okashi
 
-## Okashi es una tienda de dulces japoneses desarrollada con php, laravel, blade y boostrap.
+### Okashi es una tienda de dulces japoneses desarrollada con php, laravel, blade y boostrap.
 
+
+##Comentarios
 Antes de empezar sustituir en el .env esto por el que sale por defecto, esto hara que el correo funcione
 
 
